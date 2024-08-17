@@ -1,0 +1,53 @@
+.t1{
+    top: 2px;
+    position:relative;
+    width: 500px;
+    border: 2px solid rgb(0, 65, 43);
+    margin-bottom: 40px;
+} 
+.t2{
+    max-width: 500px;
+  color: rgb(2, 80, 94);
+    border: 1px  ;
+   position:absolute;
+   bottom: 499.23px;
+   right: 0px;
+   left: 10px;
+}
+ .e4{
+    height: 400px;
+    width: 400px;
+    border: 10px solid slateblue;
+    position: relative;
+ } 
+i{
+color: red;
+position: absolute ;
+bottom: 380px;
+left: 28px;
+}
+.er{
+    height: 300px;
+    width: 298px;
+    position: relative;
+    border: 3px ;
+    border-style: dotted;
+    border-color: rgb(13, 204, 70);
+    margin-top: 10px 6px 10px 45px;
+} 
+.ST{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 68px;
+    right: 0px;
+    top: 730px;
+    z-index: -1;
+}  
+.j2{
+    height: 150px;
+    width: 150px;
+border: 2px solid red;
+overflow: auto;
+margin-top: 100px;
+margin-left: 160px;
+}
